@@ -59,7 +59,7 @@ def find_middle_page(update):
 
 
 def main():
-    file_path = r"C:\Users\Parth garg\Documents\GitHub\Advent-of-code-challenge\AOC_Day5\input.txt"  # Replace with your input file path
+    file_path = r"input.txt"  # Replace with your input file path
     rules, updates = parse_input(file_path)
     
     ordered_updates = []
