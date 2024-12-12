@@ -42,7 +42,7 @@ class Solution:
 
 if __name__ == "__main__":
     solution = Solution()
-    input_data = solution.read_input_file(r"C:\Users\Parth garg\Documents\GitHub\Advent-of-code-challenge\AOC_Day11\input.txt")
+    input_data = solution.read_input_file(r"input.txt")
     result_part1 = solution.part1(input_data)
     print("Part 1 Result:", result_part1)
     result_part2 = solution.part2(input_data)
