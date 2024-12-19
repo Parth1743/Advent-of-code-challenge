@@ -52,7 +52,7 @@ I am a fourth-year CSE-AIML student passionate about programming and problem-sol
    ```
 2. Navigate to the folder for the desired day, and run the solution script:  
    ```bash
-   python solution.py
+   python AOC_day?_part?.py
    ```
 
 ## Contributing  
